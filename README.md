@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<h1>Netflix Clone</h1>  
+<br />  
+**Description**  
+<p>This Project is build by using React, Redux toolkit, TMDB_APIs, Firebase and Stripe</p>  
+<hr />  
+<a href='https://netflix-clone570.web.app/' target="_blank">
+    <img src='./public/images/netflix-clone.jpg' width='800px'/>
+</a>  
 
 ## Available Scripts
 
