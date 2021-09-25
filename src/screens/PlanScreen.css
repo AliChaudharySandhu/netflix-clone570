@@ -1,0 +1,40 @@
+.planScreen__plan{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.8;
+}
+.planScreen__plan:hover{
+    opacity: 1;
+}
+.planScreen__plan:hover{
+    opacity: 1;
+}
+.planScreen__plan > button{
+    padding: 10px 20px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #e50914;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: all 0.3s;
+}
+.planScreen__planActive{
+    opacity: 1!important;
+}
+.planScreen__plan > button:hover{
+    color: #e50914;
+    background-color: #fff;
+    transition: all 0.3s;
+}
+.isCurrentPackage{
+    background-color: grey!important;
+}
+.isCurrentPackage:hover{
+    background-color: grey!important;
+    color: inherit!important;
+    background-color: gray!important;
+    cursor: unset;
+}
